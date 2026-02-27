@@ -1,0 +1,6 @@
+0 Bat
+1 Cat
+2 Dog
+3 Fox
+4 Hare
+5 Rabbit
