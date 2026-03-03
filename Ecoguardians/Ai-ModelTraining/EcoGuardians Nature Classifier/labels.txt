@@ -1,7 +1,7 @@
 0 Oak Tree
 1 Leaf
 2 Blue Tit
-3 Batterflay
+3 Batterfly
 4 Owl
 5 Robin
 6 Worm
